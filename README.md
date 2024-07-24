@@ -2,7 +2,7 @@
 
 This script is designed to find the coordinates of a treasure by performing a series of file manipulations and transformations. The script navigates through directories, decodes base64 encoded data, and performs character substitutions to reveal the treasure's coordinates.
 
-# How the Script Works
+## How the script works
 
 **1. Navigate to the Target Directory:**
 
